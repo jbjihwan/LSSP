@@ -1,2 +1,2 @@
 # LSSP
-LetSSP
+Let's Solve Social Problems
